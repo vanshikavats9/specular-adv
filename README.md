@@ -23,8 +23,7 @@ The figure above shows some examples of ImageNet-AH, where the black text is the
 **ImageNet Print+Torch (ImageNet-PT)** is a subset of 10 classes from ImageNet-AH, printed on glossy photography papers, with actual specular highlights thrown on them. The images are such selected that they were originally classified correctly by ResNet-101 in the experiment of ImageNet-AH, but their specular highlight variation failed. This way, the current experiment would be able to prove the claim made by the previous experiment
 about the failure classifiers in the case of specularly affected adversarial images ResNet-101 is chosen because of its widespread use and good classifier performance on ImageNet-AH.
 
-<img src="assets/exp2_mis" alt="pt" width="200"/>
-
+![pt](assets/exp2_mis.png)
 
 The figure above shows some examples of ImageNet-PT, where the black text is the correct class, and the red text is the incorrect class.
 
