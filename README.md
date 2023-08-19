@@ -15,7 +15,7 @@ We also provide two datasets, ImageNet-AH and ImageNet-PT, depicting:
 
 The image name is saved as ```(<ImageNum>_<Class>_<ClassName>_<Intensity>_<Position>)```. Here, the position (P) number varies from 1-100. Since the image is divided into 5x5 grid (25 unique positions), P represents one of those 25 positions per intensity value (I(sigma) = 10, 20, 30, 40). The counting is row-first, and hence the total P values are ```P * I(sigma) = 25*4 = 100```. 
 
-![ah](assets/bbox_eg.png)
+![ah](assets/exp1_mis_newpng.png)
 
 The figure above shows some examples of ImageNet-AH, where the black text is the correct class, and the red text is the incorrect class.
 
