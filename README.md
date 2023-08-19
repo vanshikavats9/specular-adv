@@ -30,11 +30,12 @@ The figure above shows some examples of ImageNet-PT, where the black text is the
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@article{vats2023,
+@inproceedings{vats2023,
   title={Adversarial Examples with Specular Highlights},
   author={Vanshika Vats and Koteswar Rao Jerripothula},
-  journal={},
-  year={2023}
+  booktitle={2023 IEEE International Conference on Computer Vision Workshop (ICCVW)},
+  year={2023},
+  organization={IEEE}
 }
 
 @inproceedings{imagenet,
@@ -43,7 +44,7 @@ If you find this useful in your research, please consider citing:
   booktitle={2009 IEEE conference on computer vision and pattern recognition},
   pages={248--255},
   year={2009},
-  organization={Ieee}
+  organization={IEEE}
 }
 
 ```
