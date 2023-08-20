@@ -35,9 +35,9 @@ If you find this useful in your research, please consider citing:
 @inproceedings{vats2023,
   title={Adversarial Examples with Specular Highlights},
   author={Vanshika Vats and Koteswar Rao Jerripothula},
-  booktitle={2023 IEEE International Conference on Computer Vision Workshop (ICCVW)},
+  booktitle={2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
   year={2023},
-  organization={IEEE}
+  organization={IEEE/CVF}
 }
 
 @inproceedings{imagenet,
