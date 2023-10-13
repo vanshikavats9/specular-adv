@@ -32,12 +32,13 @@ The figure above shows some examples of ImageNet-PT, where the black text is the
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@inproceedings{vats2023,
-  title={Adversarial Examples with Specular Highlights},
-  author={Vats, Vanshika and Jerripothula, Koteswar Rao},
-  booktitle={2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
-  year={2023},
-  organization={IEEE/CVF}
+@InProceedings{Vats_2023_ICCV,
+    author    = {Vats, Vanshika and Jerripothula, Koteswar Rao},
+    title     = {Adversarial Examples with Specular Highlights},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {3602-3611}
 }
 
 @inproceedings{imagenet,
